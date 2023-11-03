@@ -1,3 +1,9 @@
 
 #EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" tvg-chno="1257" group-title="United States" , CNN RESUMEN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png" tvg-chno="1015" group-title="United States" , Bloomberg TV+ UHD
+https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文
+http://113.117.74.17:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯
+http://113.117.74.18:8081/hls/36/index.m3u8
